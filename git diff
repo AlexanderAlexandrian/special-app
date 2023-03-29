@@ -1,0 +1,208 @@
+[33mcommit 83fff3304e084a9743869a217f7885e5de5ce885[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Alexander Alexandrian <Alexander_Alexandrian@mail.ru>
+Date:   Tue Mar 21 23:41:50 2023 +0300
+
+    header chamged in html-files
+
+[33mcommit 5a6cb9d2b228d688e36995f427676b0ff4980b1e[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: AlexanderAlexandrian <127149029+AlexanderAlexandrian@users.noreply.github.com>
+Date:   Fri Mar 10 08:08:56 2023 +0300
+
+    Delete test.html
+
+[33mcommit eeab1694f46edc8423cab8292663dbaac86da2e0[m
+Author: AlexanderAlexandrian <127149029+AlexanderAlexandrian@users.noreply.github.com>
+Date:   Fri Mar 10 10:26:07 2023 +0300
+
+    Basket delivery options (#2)
+    
+    * basket delivery options block added
+    
+    * basket delivery options block added
+    
+    * new button added
+    
+    * cancel button added
+    
+    * Update index.html
+
+[33mcommit 0f072eb6e9d5c17f168bdfa8db64eecb9bcc02d1[m
+Merge: 88e544a 2a5c186
+Author: Alexander Alexandrian <Alexander_Alexandrian@mail.ru>
+Date:   Fri Mar 10 09:43:43 2023 +0300
+
+    merge
+
+[33mcommit 88e544a7aa7b02e75af975a2350a68d444e1d5f0[m
+Author: Alexander Alexandrian <Alexander_Alexandrian@mail.ru>
+Date:   Fri Mar 10 09:40:14 2023 +0300
+
+    h2 removed
+
+[33mcommit 2a5c186ffaaaa4bc989c9548fb8937fa0343c1d8[m
+Author: Alexander Alexandrian <Alexander_Alexandrian@mail.ru>
+Date:   Fri Mar 10 09:38:46 2023 +0300
+
+    header changed to official
+
+[33mcommit b617cdccd6d8511084acd4174a5977c064f67170[m
+Author: Alexander Alexandrian <Alexander_Alexandrian@mail.ru>
+Date:   Fri Mar 10 09:31:24 2023 +0300
+
+    scripts added
+
+[33mcommit 70c8edfeb63028360d1b75cbc52a721c2d388575[m
+Merge: 1813925 5e1e848
+Author: Alexander Alexandrian <Alexander_Alexandrian@mail.ru>
+Date:   Fri Mar 10 09:24:35 2023 +0300
+
+    merge
+
+[33mcommit 1813925616184160aeceb88aca4c8ce1dbd42b59[m
+Author: Alexander Alexandrian <Alexander_Alexandrian@mail.ru>
+Date:   Fri Mar 10 09:22:21 2023 +0300
+
+    h2 color changed to green
+
+[33mcommit 5e1e848c3c438cfebcd71c96a5b3048fa14e146b[m
+Author: Alexander Alexandrian <Alexander_Alexandrian@mail.ru>
+Date:   Fri Mar 10 09:19:51 2023 +0300
+
+    images removed
+
+[33mcommit 2d5a18f94031dcea32719b9581491202cc2141b9[m
+Author: Alexander Alexandrian <Alexander_Alexandrian@mail.ru>
+Date:   Fri Mar 10 09:18:25 2023 +0300
+
+    new phone contact added
+
+[33mcommit bae3d8f36f69a53da9549c8d83b16a44a192eec6[m[33m ([m[1;31morigin/test-branch[m[33m)[m
+Author: Alexander Alexandrian <Alexander_Alexandrian@mail.ru>
+Date:   Fri Mar 10 08:07:07 2023 +0300
+
+    format index
+
+[33mcommit f9a1bff5b80544a8467be0c5e7822991bc92edcb[m
+Merge: 72ce049 ea0bd6f
+Author: Alexander Alexandrian <Alexander_Alexandrian@mail.ru>
+Date:   Thu Mar 9 20:03:41 2023 +0300
+
+    merge
+
+[33mcommit ea0bd6ffa01005adcb030a3a1f20dc3611c4bb17[m
+Author: AlexanderAlexandrian <127149029+AlexanderAlexandrian@users.noreply.github.com>
+Date:   Thu Mar 9 19:57:45 2023 +0300
+
+    Create new-file test
+
+[33mcommit 272eef3a3a17e97101627f835603efdb889da473[m
+Author: AlexanderAlexandrian <127149029+AlexanderAlexandrian@users.noreply.github.com>
+Date:   Thu Mar 9 19:57:01 2023 +0300
+
+    Update index.html
+
+[33mcommit 72ce049e9376ad86cbbe98e3ea496a339af395bc[m
+Author: Alexander Alexandrian <Alexander_Alexandrian@mail.ru>
+Date:   Thu Mar 9 19:54:52 2023 +0300
+
+    welcome changed
+
+[33mcommit d964d9455982cc6eb8f1a80447c9e15fb52017d2[m
+Merge: 6c4c708 5227b3a
+Author: Alexander Alexandrian <Alexander_Alexandrian@mail.ru>
+Date:   Thu Mar 9 19:49:59 2023 +0300
+
+    merge
+
+[33mcommit 5227b3a779958234bf518c79e6817e3c9cff9bee[m
+Author: AlexanderAlexandrian <127149029+AlexanderAlexandrian@users.noreply.github.com>
+Date:   Thu Mar 9 19:46:02 2023 +0300
+
+    Update index.html
+
+[33mcommit 6c4c708baecbd30427206eeabf1674e0ee2ea354[m
+Author: Alexander Alexandrian <Alexander_Alexandrian@mail.ru>
+Date:   Thu Mar 9 19:44:28 2023 +0300
+
+    phone number changed
+
+[33mcommit 3c921713fde36d2aebde121d4f1e68881e098fc8[m
+Merge: 02dda9b 292fa4d
+Author: Alexander Alexandrian <Alexander_Alexandrian@mail.ru>
+Date:   Thu Mar 9 19:40:49 2023 +0300
+
+    Merge branch 'master' of github.com:AlexanderAlexandrian/special-app
+
+[33mcommit 292fa4d8f815d1461bd695e3888a45e6691ff349[m
+Author: AlexanderAlexandrian <127149029+AlexanderAlexandrian@users.noreply.github.com>
+Date:   Thu Mar 9 19:37:49 2023 +0300
+
+    Create test.html
+
+[33mcommit 02dda9be4e8739a78e1db5f5cf96ed7fff182e90[m
+Author: Alexander Alexandrian <Alexander_Alexandrian@mail.ru>
+Date:   Thu Mar 9 19:36:02 2023 +0300
+
+    contact removed
+
+[33mcommit acc837dd319749cb9bcdaf27621d4fe3975edc8b[m
+Author: AlexanderAlexandrian <127149029+AlexanderAlexandrian@users.noreply.github.com>
+Date:   Thu Mar 9 19:27:09 2023 +0300
+
+    Create README.md
+
+[33mcommit 71018599507dc8b5b9d49ce0ecc6fc9b2e4d1116[m
+Author: Alexander Alexandrian <Alexander_Alexandrian@mail.ru>
+Date:   Thu Mar 9 19:23:08 2023 +0300
+
+    e-mail removed
+
+[33mcommit cc812afe9930369eb1825eadb38a6880f6e99743[m
+Author: Alexander Alexandrian <Alexander_Alexandrian@mail.ru>
+Date:   Tue Mar 7 00:21:32 2023 +0300
+
+    added e-mail
+
+[33mcommit b8ebeb932a91c5c65ebc9b2fab018308b9a98513[m
+Author: Alexander Alexandrian <Alexander_Alexandrian@mail.ru>
+Date:   Mon Mar 6 16:29:48 2023 +0300
+
+    some changes #2
+
+[33mcommit f6f2315341456aa3649cd8a8a31001371bcef12c[m
+Author: Alexander Alexandrian <Alexander_Alexandrian@mail.ru>
+Date:   Mon Mar 6 16:21:52 2023 +0300
+
+    some changes
+
+[33mcommit 97f72079cc44148abf6b8fb12dbde68d274f3c84[m
+Author: Alexander Alexandrian <Alexander_Alexandrian@mail.ru>
+Date:   Mon Mar 6 16:11:54 2023 +0300
+
+    Revert "adding and ignored logs"
+    
+    This reverts commit 719a691466eb017d6aabb8bcf0ce949c57cc9f97.
+
+[33mcommit 719a691466eb017d6aabb8bcf0ce949c57cc9f97[m
+Author: Alexander Alexandrian <Alexander_Alexandrian@mail.ru>
+Date:   Mon Mar 6 15:59:09 2023 +0300
+
+    adding and ignored logs
+
+[33mcommit d4911d01906167d381eadf6d096fee44df77965d[m
+Author: Alexander Alexandrian <Alexander_Alexandrian@mail.ru>
+Date:   Sun Mar 5 19:29:14 2023 +0300
+
+    index.gtml changed, actions.js added
+
+[33mcommit cc9a0bdeedf38adb433baab0db30eb9b7722b23a[m
+Author: Alexander Alexandrian <Alexander_Alexandrian@mail.ru>
+Date:   Sun Mar 5 18:04:30 2023 +0300
+
+    title changed
+
+[33mcommit c1ac63ddd65a4fb044d93cf83aec871e50a971c5[m
+Author: Alexander Alexandrian <Alexander_Alexandrian@mail.ru>
+Date:   Sun Mar 5 17:35:27 2023 +0300
+
+    initial
